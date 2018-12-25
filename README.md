@@ -1,5 +1,7 @@
-# A C-Bsaed Noise Machine
+# A C-Based Noise Machine
  By Varun Khatri
+
+***************************************************************************************************************************
 
 A C program that creates audio file with pink, white and red noise.
 
