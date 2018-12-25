@@ -1,6 +1,7 @@
 # A C-Bsaed Noise Machine
+ By Varun Khatri
+
 A C program that creates audio file with pink, white and red noise.
-- by Varun Khatri
 
 To be able to run the code on your computer, you need to have the GNU Scientific Library installed.
 
