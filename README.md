@@ -5,10 +5,9 @@
 
 A C program that creates audio file with pink, white and red noise.
 
-To be able to run the code on your computer, you need to have the GNU Scientific Library installed.
+To be able to run the code on your computer, you need to have the GNU Scientific Library installed. It can be downloaded from https://www.gnu.org/software/gsl/ 
 
-To install GSL, go to the directory 'gsl' in this same folder and follow the instructions
-in the 'INSTALL' file. For MAC, simply run the command './configure && make && sudo make install' in Terminal. The working directory should be 'gsl'
+To install GSL, unzip the archive file downloaded from the GNU website and follow the instructions in the 'INSTALL' file. For MAC, simply run the command './configure && make && sudo make install' in Terminal.
 
 Please email at vkhatri2@ur.rochester.edu
 
